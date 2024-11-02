@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/harmony-studios/static/css/main.c346dd8e.css",
+    "main.js": "/harmony-studios/static/js/main.f065e5f5.js",
+    "static/media/studio2.jpg": "/harmony-studios/static/media/studio2.0f8796e5235cef44bd5c.jpg",
+    "static/media/studio1.jpg": "/harmony-studios/static/media/studio1.6213c46b0054dd613327.jpg",
+    "static/media/studio3.jpg": "/harmony-studios/static/media/studio3.96c247d07e3f15880c0f.jpg",
+    "static/media/studio4.jpg": "/harmony-studios/static/media/studio4.869af604107d1a78ad41.jpg",
+    "index.html": "/harmony-studios/index.html",
+    "main.c346dd8e.css.map": "/harmony-studios/static/css/main.c346dd8e.css.map",
+    "main.f065e5f5.js.map": "/harmony-studios/static/js/main.f065e5f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c346dd8e.css",
+    "static/js/main.f065e5f5.js"
+  ]
+}
