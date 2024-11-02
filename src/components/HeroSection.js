@@ -13,10 +13,10 @@ export default function HeroSection({ isVisible }) {
                 <p className="text-xl md:text-2xl mb-8 text-gray-300">
                     Professional recording, mixing, and production services in a state-of-the-art facility
                 </p>
-                <button className="bg-purple-500 hover:bg-purple-600 text-white px-8 py-4 rounded-full text-lg font-semibold transition-all hover:scale-105 flex items-center mx-auto">
+                <a href="#contact" className="bg-purple-500 hover:bg-purple-600 text-white px-8 py-4 rounded-full text-lg font-semibold transition-all hover:scale-105 flex items-center mx-auto">
                     Book a Session
                     <ChevronRight className="ml-2" />
-                </button>
+                </a>
             </div>
         </div>
     );
